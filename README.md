@@ -8,11 +8,53 @@ Welcome to share your papers, thoughts and ideas in this area! 💪 💪 💪
 
 ## Contents
 
+  - [Surveys and Tutorials](#Surveys-and-Tutorials)
   - [Highlight Papers](#Highlight-Papers)
-  - [Foundational Surveys & Tutorials](#Foundational-Surveys-Tutorials)
   - [Paper Collections](#Paper-Collections)
   - [Toolkits & Libraries](#Toolkits-Libraries)
   - [Contributing](#Contributing)
+
+-----
+
+## Surveys and Tutorials
+
+*Broad overviews of the calibration and uncertainty quantification landscape.*
+
+  - **Uncertainty Quantification for Large Language Models**
+      - Artem Shelmanov，Maxim Panov，Roman Vashurin, et al. 
+      - `ACL 2025 Tutorial`
+      - [link](https://sites.google.com/view/acl2025-uncertainty-for-llms/)
+
+  - **A Survey of Confidence Estimation and Calibration in Large Language Models**
+
+      - *Zheng Geng, Renjie Pi, Yifei Li, et al. (Tsinghua University, 2024)*
+      - `NAACL 2024`
+      - [[Paper]](https://aclanthology.org/2024.naacl-long.366/)
+
+  - **Uncertainty Quantification and Confidence Calibration in Large Language Models: A Survey**
+
+      - *Jia-Chen Liu, Zhen-Hui Liu, Yuming-Zhang, et al. (Beijing University of Posts and Telecommunications, 2024)*
+      - `arXiv 2024`
+      - [[Paper]](https://arxiv.org/abs/2402.13419)
+
+  - **Uncertainty Estimation for Natural Language Processing (Tutorial)**
+
+      - *Chrysoula Zerva, André F. T. Martins, et al. (Unbabel, Instituto de Telecomunicações)*
+      - `COLING 2022`
+      - [[Website]](https://sites.google.com/view/uncertainty-nlp)
+
+  - **A Survey on Uncertainty Quantification in Deep Learning**
+
+      - *Jie-Fang Zhang, Chen-Xiao-Ma, et al. (Beihang University, 2023)*
+      - `arXiv 2023`
+      - [[Paper]](https://arxiv.org/abs/2302.09520)
+
+  - **Conformal Prediction for Natural Language Processing: A Survey**
+
+      - *Robert L. Logan IV, AndreaASF, et al. (UMass Amherst, 2024)*
+      - `TACL 2024`
+      - [[Paper]](https://arxiv.org/abs/2309.02758)
+
 
 -----
 
@@ -44,41 +86,6 @@ Seminal and impactful papers from renowned labs like OpenAI / Anthropic / ... an
       - `EMNLP 2024 (Best Paper)`
       - [[Paper]](https://arxiv.org/abs/2405.08331)
 
------
-
-## Foundational Surveys & Tutorials
-
-*Broad overviews of the calibration and uncertainty quantification landscape.*
-
-  - **A Survey of Confidence Estimation and Calibration in Large Language Models**
-
-      - *Zheng Geng, Renjie Pi, Yifei Li, et al. (Tsinghua University, 2024)*
-      - `NAACL 2024`
-      - [[Paper]](https://aclanthology.org/2024.naacl-long.366/)
-
-  - **Uncertainty Quantification and Confidence Calibration in Large Language Models: A Survey**
-
-      - *Jia-Chen Liu, Zhen-Hui Liu, Yuming-Zhang, et al. (Beijing University of Posts and Telecommunications, 2024)*
-      - `arXiv 2024`
-      - [[Paper]](https://arxiv.org/abs/2402.13419)
-
-  - **Uncertainty Estimation for Natural Language Processing (Tutorial)**
-
-      - *Chrysoula Zerva, André F. T. Martins, et al. (Unbabel, Instituto de Telecomunicações)*
-      - `COLING 2022`
-      - [[Website]](https://sites.google.com/view/uncertainty-nlp)
-
-  - **A Survey on Uncertainty Quantification in Deep Learning**
-
-      - *Jie-Fang Zhang, Chen-Xiao-Ma, et al. (Beihang University, 2023)*
-      - `arXiv 2023`
-      - [[Paper]](https://arxiv.org/abs/2302.09520)
-
-  - **Conformal Prediction for Natural Language Processing: A Survey**
-
-      - *Robert L. Logan IV, AndreaASF, et al. (UMass Amherst, 2024)*
-      - `TACL 2024`
-      - [[Paper]](https://arxiv.org/abs/2309.02758)
 -----
 
 ## Paper Collections
