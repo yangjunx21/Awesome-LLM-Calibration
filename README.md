@@ -2,8 +2,6 @@
 
 A curated list of papers, toolkits, and other resources for Large Language Model (LLM) Calibration (Confidence, Uncertainty Quantification and so on). 🧠
 
-The goal of LLM calibration is to make model confidence scores meaningful and reliable. An ideally calibrated model's predicted confidence should align with its actual accuracy. For example, if a model assigns a confidence of 80% to 100 different predictions, we expect that 80 of those predictions are correct. This repository gathers the latest advancements in measuring, evaluating, and improving the calibration of LLMs. ✨
-
 Welcome to share your papers, thoughts and ideas in this area! 💪 💪 💪 
 
 ## Contents
